@@ -1,7 +1,3 @@
-[![DOI](https://zenodo.org/badge/255074370.svg)](https://zenodo.org/doi/10.5281/zenodo.10499090)
-[![Code Coverage](https://codecov.io/gh/NCSU-Fall-2022-SE-Project-Team-11/XpensAuditor---Group-11/branch/main/graphs/badge.svg)](https://codecov.io)
-![GitHub contributors](https://img.shields.io/badge/Contributors-1-brightgreen)
-[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)]
 
 # Online-Food-Ordering-Web-App
 Online Food Ordering System Website using PHP, SQL, HTML, JavaScript & CSS. 
